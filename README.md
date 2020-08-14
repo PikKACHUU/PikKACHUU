@@ -1,4 +1,4 @@
-### Hi there 👋
+### :sparkles: Hi there :sparkles:
 
 #### 🌱 I’m currently learning Java Microserver and trying to build my Web page
 
